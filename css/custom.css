@@ -1,0 +1,211 @@
+.container {
+	max-width: 64rem;
+	padding-left:  1rem;
+	padding-right: 1rem;
+	margin-left:  auto;
+	margin-right: auto;
+}
+
+h2{
+	margin-top: 3rem;
+	border-bottom: 4px solid;
+	border-color: gray;
+}
+
+h3{
+	margin-top: 3rem;
+	border-bottom: 3px solid;
+	border-color: gray;
+}
+
+h4{
+	margin-top: 3rem;
+}
+
+p{
+	font-size: 1rem;
+}
+
+.post-title{
+	font-size:2rem;
+}
+
+.book_show{
+	display: flex;
+	flex-wrap: nowrap;
+	align-content: center;
+	padding: 5px;
+	border: solid 2px;
+	border-color: gray;
+	border-radius: 5px;
+}
+
+.thumbnail{
+	padding: 5px;
+}
+
+.book_description{
+	padding: 5px;
+}
+
+.fa-twitter{
+	flex: auto;
+	color: #00acee;
+}
+
+.fa-facebook{
+	flex: auto;
+	color: #3b5998;
+}
+
+.sns_icon{
+	margin: 0.25rem;
+	font-size: xx-large;
+}
+
+.sns_box{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.share_text{
+	margin: 0.25rem;
+	font-size: large;
+}
+
+.lead{
+	font-size: 18px;
+}
+
+.book_info{
+	position: relative;
+	border: 1px solid gray;
+	border-radius: 10px;
+	padding: 5px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	display: flex;
+	flex-wrap: wrap;
+	font-size: 14px;
+	width: 780px;
+}
+
+.book_info a{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	text-indent:-999px;
+	z-index: 2;
+}
+
+.thumbnail{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: auto;
+	padding: 10px;
+}
+
+.thumbnail img{
+	height: 360px;
+}
+
+.book_content{
+	width: 480px;
+	padding: 10px;
+}
+
+.publish{
+	padding-top: 5px;
+	font-size: 12px;
+}
+
+.book_title{
+	font-size: 24px;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.author{
+	font-size: 18px;
+}
+
+.illust{
+	font-size: 16px;
+}
+
+.content_head{
+	padding-top: 30px;
+	padding-bottom: 5px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+image{
+	width: auto;
+}
+
+@media (min-width: 48em) {
+	.content {
+	  margin-left: 22rem;
+	  margin-right: 4rem;
+	}
+
+}
+
+@media (max-width: 1280px) {
+	.book_info{
+		width: auto;
+	}
+
+	img{
+		width: 100%;
+	}
+
+	.thumbnail{
+		width: 100%;
+		text-align: center;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.thumbnail img{
+		width: auto;
+		height: auto;
+	}
+
+	
+	.book_content{
+		width: auto;
+		padding: 10px;
+	}
+}
+
+@media (max-width: 320px) {
+	img{
+		width: 100%;
+	}
+	
+	.thumbnail{
+		width: 100%;
+		text-align: center;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.thumbnail img{
+		width: auto;
+		height: auto;
+	}
+}
+
+.MathJax_Display {
+	text-align: left !important;
+	text-indent: 2em !important;
+}
