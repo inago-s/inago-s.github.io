@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>diary on i175s blog</title>
-    <link>https://i175s.github.io/categories/diary/</link>
+    <link>https://blog.inago.info/categories/diary/</link>
     <description>Recent content in diary on i175s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 26 Dec 2020 22:25:17 +0900</lastBuildDate>
     
-	<atom:link href="https://i175s.github.io/categories/diary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.inago.info/categories/diary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BOOK☆WALKERのコインバックがやばい件</title>
-      <link>https://i175s.github.io/post/bw_coinback/</link>
+      <link>https://blog.inago.info/post/bw_coinback/</link>
       <pubDate>Sat, 26 Dec 2020 22:25:17 +0900</pubDate>
       
-      <guid>https://i175s.github.io/post/bw_coinback/</guid>
+      <guid>https://blog.inago.info/post/bw_coinback/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KADOKAWA人気シリーズ90%OFFクーポンが使えるマンガ・ラノベのおすすめ</title>
-      <link>https://i175s.github.io/post/90off/</link>
+      <link>https://blog.inago.info/post/90off/</link>
       <pubDate>Mon, 28 Sep 2020 00:12:27 +0900</pubDate>
       
-      <guid>https://i175s.github.io/post/90off/</guid>
+      <guid>https://blog.inago.info/post/90off/</guid>
       <description></description>
     </item>
     
     <item>
       <title>電子書籍について</title>
-      <link>https://i175s.github.io/post/about-ebook/</link>
+      <link>https://blog.inago.info/post/about-ebook/</link>
       <pubDate>Sun, 23 Aug 2020 23:02:59 +0900</pubDate>
       
-      <guid>https://i175s.github.io/post/about-ebook/</guid>
+      <guid>https://blog.inago.info/post/about-ebook/</guid>
       <description></description>
     </item>
     

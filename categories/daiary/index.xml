@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>daiary on i175s blog</title>
-    <link>https://i175s.github.io/categories/daiary/</link>
+    <link>https://blog.inago.info/categories/daiary/</link>
     <description>Recent content in daiary on i175s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 01 Oct 2020 11:26:14 +0900</lastBuildDate>
     
-	<atom:link href="https://i175s.github.io/categories/daiary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.inago.info/categories/daiary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ニコニコカドカワ祭り2020 マンガ編</title>
-      <link>https://i175s.github.io/post/nicokado2020comic/</link>
+      <link>https://blog.inago.info/post/nicokado2020comic/</link>
       <pubDate>Thu, 01 Oct 2020 11:26:14 +0900</pubDate>
       
-      <guid>https://i175s.github.io/post/nicokado2020comic/</guid>
+      <guid>https://blog.inago.info/post/nicokado2020comic/</guid>
       <description></description>
     </item>
     

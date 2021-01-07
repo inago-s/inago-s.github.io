@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tech on i175s blog</title>
-    <link>https://i175s.github.io/categories/tech/</link>
+    <link>https://blog.inago.info/categories/tech/</link>
     <description>Recent content in tech on i175s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 20 Jul 2020 15:24:17 +0900</lastBuildDate>
     
-	<atom:link href="https://i175s.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.inago.info/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CUE!のスクショに著作権者表示つける</title>
-      <link>https://i175s.github.io/post/cue-ss/</link>
+      <link>https://blog.inago.info/post/cue-ss/</link>
       <pubDate>Mon, 20 Jul 2020 15:24:17 +0900</pubDate>
       
-      <guid>https://i175s.github.io/post/cue-ss/</guid>
+      <guid>https://blog.inago.info/post/cue-ss/</guid>
       <description></description>
     </item>
     
