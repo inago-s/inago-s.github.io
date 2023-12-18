@@ -6,10 +6,19 @@
     <description>Recent content in Posts on i175s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 13 Nov 2021 15:53:33 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 16:21:36 +0900</lastBuildDate>
     
 	<atom:link href="https://blog.inago.info/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>今年読んだマンガの振り返りと作ったWebアプリの紹介</title>
+      <link>https://blog.inago.info/post/adc2023/</link>
+      <pubDate>Mon, 18 Dec 2023 16:21:36 +0900</pubDate>
+      
+      <guid>https://blog.inago.info/post/adc2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ニコニコプレミアムDAYの70%OFFクーポン</title>
