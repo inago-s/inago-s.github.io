@@ -6,7 +6,7 @@
     <description>Recent content in Categories on i175s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 11 Jan 2021 09:06:51 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Nov 2021 15:53:33 +0900</lastBuildDate>
     
 	<atom:link href="https://blog.inago.info/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,25 +14,16 @@
     <item>
       <title>diary</title>
       <link>https://blog.inago.info/categories/diary/</link>
-      <pubDate>Mon, 11 Jan 2021 09:06:51 +0900</pubDate>
+      <pubDate>Sat, 13 Nov 2021 15:53:33 +0900</pubDate>
       
       <guid>https://blog.inago.info/categories/diary/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>daiary</title>
-      <link>https://blog.inago.info/categories/daiary/</link>
-      <pubDate>Thu, 01 Oct 2020 11:26:14 +0900</pubDate>
-      
-      <guid>https://blog.inago.info/categories/daiary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>tech</title>
       <link>https://blog.inago.info/categories/tech/</link>
-      <pubDate>Mon, 20 Jul 2020 15:24:17 +0900</pubDate>
+      <pubDate>Mon, 27 Sep 2021 10:05:39 +0900</pubDate>
       
       <guid>https://blog.inago.info/categories/tech/</guid>
       <description></description>

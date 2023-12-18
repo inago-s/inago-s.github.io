@@ -1,20 +1,27 @@
 .container {
-	max-width: 64rem;
+	max-width: 70rem;
 	padding-left:  1rem;
 	padding-right: 1rem;
 	margin-left:  auto;
 	margin-right: auto;
 }
 
+.img_container{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
 h2{
-	margin-top: 3rem;
+	margin-top: 2rem;
 	border-bottom: 4px solid;
 	border-color: gray;
 }
 
 h3{
-	margin-top: 3rem;
-	border-bottom: 3px solid;
+	display: inline-block;
+	margin-top: 1rem;
+	border-bottom: 3px dashed;
 	border-color: gray;
 }
 
@@ -52,6 +59,36 @@ p{
 	flex: auto;
 	color: #00acee;
 }
+
+.letter{
+	margin-bottom: -1rem;
+	text-indent: 1rem;
+	font-size: x-large;
+	font-weight: bold;
+	font-family: "Yu Mincho";
+	max-width: 1080px;
+	border-bottom: 2px solid #F39AAB;
+}
+
+.letter-box{
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+.letter-large{
+	margin-bottom: -1rem;
+	text-indent: 1rem;
+	font-size: x-large;
+	font-weight: bold;
+	font-family: "Yu Mincho";
+	max-width: 1080px;
+	border-bottom: 2px solid #F39AAB;
+}
+
+.letter-small{
+	display: none;
+}
+
 
 .fa-facebook{
 	flex: auto;
@@ -113,6 +150,18 @@ p{
 	height: 360px;
 }
 
+.thumbnail-square{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: auto;
+	padding: 10px;
+}
+
+.thumbnail-square img{
+	height: 256px;
+}
+
 .book_content{
 	width: 480px;
 	padding: 10px;
@@ -134,10 +183,6 @@ p{
 	font-size: 18px;
 }
 
-.illust{
-	font-size: 16px;
-}
-
 .content_head{
 	padding-top: 30px;
 	padding-bottom: 5px;
@@ -145,14 +190,52 @@ p{
 	font-weight: bold;
 }
 
-image{
+.image-thumbnail{
+	max-height: 320px;
 	width: auto;
+}
+
+.sesame {
+	text-emphasis: filled sesame #515151;
+	-webkit-text-emphasis: filled sesame #515151;
+}
+
+.photo{
+	max-width: 640px;
+	height: auto;
+	margin: 0.5rem;
+}
+
+.big_font{
+	font-size: 2rem;
+	margin: 0.5rem;
+}
+
+@media (max-width:1800px){
+	.letter{
+		max-width: 600px;
+		font-size: large;
+	}
+	.letter-large{
+		display: none;
+	}
+	
+	.letter-small{
+		display: block;
+		margin-bottom: -1rem;
+		text-indent: 1rem;
+		font-size: large;
+		font-weight: bold;
+		font-family: "Yu Mincho";
+		max-width: 600px;
+		border-bottom: 2px solid #F39AAB;
+	}
 }
 
 @media (min-width: 48em) {
 	.content {
-	  margin-left: 22rem;
-	  margin-right: 4rem;
+	  margin-left: 20rem;
+	  margin-right: 1rem;
 	}
 
 }
@@ -160,10 +243,6 @@ image{
 @media (max-width: 1280px) {
 	.book_info{
 		width: auto;
-	}
-
-	img{
-		width: 100%;
 	}
 
 	.thumbnail{
@@ -186,11 +265,7 @@ image{
 	}
 }
 
-@media (max-width: 320px) {
-	img{
-		width: 100%;
-	}
-	
+@media (max-width: 480px) {
 	.thumbnail{
 		width: 100%;
 		text-align: center;
@@ -203,6 +278,20 @@ image{
 		width: auto;
 		height: auto;
 	}
+
+	.margin{
+		margin: 10px;
+	}
+
+	.letter{
+		font-size: medium;
+		max-width: 100%;
+	}
+
+	.letter-small{
+		font-size: medium;
+	}
+	
 }
 
 .MathJax_Display {

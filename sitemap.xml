@@ -3,42 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.inago.info/post/audio-book/</loc>
-    <lastmod>2021-01-11T09:06:51+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.inago.info/categories/</loc>
-    <lastmod>2021-01-11T09:06:51+09:00</lastmod>
+    <lastmod>2021-11-13T15:53:33+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.inago.info/categories/diary/</loc>
-    <lastmod>2021-01-11T09:06:51+09:00</lastmod>
+    <lastmod>2021-11-13T15:53:33+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.inago.info/</loc>
-    <lastmod>2021-01-11T09:06:51+09:00</lastmod>
+    <lastmod>2021-11-13T15:53:33+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.inago.info/post/</loc>
-    <lastmod>2021-01-11T09:06:51+09:00</lastmod>
+    <lastmod>2021-11-13T15:53:33+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.inago.info/tags/</loc>
-    <lastmod>2021-01-11T09:06:51+09:00</lastmod>
+    <lastmod>2021-11-13T15:53:33+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.inago.info/tags/%E3%83%A9%E3%83%8E%E3%83%99/</loc>
-    <lastmod>2021-01-11T09:06:51+09:00</lastmod>
+    <loc>https://blog.inago.info/post/niconicopremiumday/</loc>
+    <lastmod>2021-11-13T15:53:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/tags/%E3%83%9E%E3%83%B3%E3%82%AC/</loc>
+    <lastmod>2021-11-13T15:53:33+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.inago.info/tags/%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D/</loc>
+    <lastmod>2021-11-13T15:53:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/post/nicokado2021/</loc>
+    <lastmod>2021-10-01T12:23:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/tags/bookwalker/</loc>
+    <lastmod>2021-09-27T10:05:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/post/bw_favlist/</loc>
+    <lastmod>2021-09-27T10:05:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/categories/tech/</loc>
+    <lastmod>2021-09-27T10:05:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/post/konorano2022/</loc>
+    <lastmod>2021-09-23T17:37:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/tags/%E3%83%A9%E3%83%8E%E3%83%99/</loc>
+    <lastmod>2021-09-23T17:37:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/tags/%E5%B0%B1%E6%B4%BB/</loc>
+    <lastmod>2021-08-10T02:08:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/post/recruit/</loc>
+    <lastmod>2021-08-10T02:08:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/post/gw_comics/</loc>
+    <lastmod>2021-05-05T11:49:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/post/nareruse/</loc>
+    <lastmod>2021-03-30T01:43:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/post/lnexpo/</loc>
+    <lastmod>2021-03-06T00:38:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/post/bw_bookshelf/</loc>
+    <lastmod>2021-02-01T16:31:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inago.info/post/audio-book/</loc>
     <lastmod>2021-01-11T09:06:51+09:00</lastmod>
   </url>
   
@@ -48,17 +113,7 @@
   </url>
   
   <url>
-    <loc>https://blog.inago.info/categories/daiary/</loc>
-    <lastmod>2020-10-01T11:26:14+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.inago.info/post/nicokado2020comic/</loc>
-    <lastmod>2020-10-01T11:26:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.inago.info/tags/%E3%83%9E%E3%83%B3%E3%82%AC/</loc>
     <lastmod>2020-10-01T11:26:14+09:00</lastmod>
   </url>
   
@@ -79,11 +134,6 @@
   
   <url>
     <loc>https://blog.inago.info/post/cue-ss/</loc>
-    <lastmod>2020-07-20T15:24:17+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.inago.info/categories/tech/</loc>
     <lastmod>2020-07-20T15:24:17+09:00</lastmod>
   </url>
   

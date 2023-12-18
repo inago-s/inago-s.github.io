@@ -1,0 +1,119 @@
+- Cisco社ルータに変える（現在は別メーカー）
+- NATの記述方式が大分違う
+- syslogサーバは指定してない
+- SNMPコミュニティ設定してない
+- ACLずらずらかけてない
+- ADD IP INT,ENABLE FIREWALL,ip cef,interface FastEthernet0,ip subnet-zero,ADD FIREWALL POLICY=net NAT=STANDARD
+- パスワードが平文になってる．コンフィグ見ると丸わかり．enable secret使ってない．vtyにだけパスワードかけてコンソール認証がなしなのはなぜ？
+- vtyにだけパスワードかけてコンソールが認証なしなのはなんで？
+- cpdを殺していない
+- logの表示も起動時間準拠のまま
+- domain参照も不要．コマンドtypoしたときに，余分な待ち時間かかるだけ
+
+```
+!
+! Last configuration change at 05:43:50 UTC Tue Mar 30 2021
+!
+version 15.1
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+!
+hostname Router
+!
+boot-start-marker
+boot config flash:892config.txt
+boot-end-marker
+!
+!
+!
+no aaa new-model
+!
+crypto pki token default removal timeout 0
+!
+!
+ip source-route
+!
+!
+!
+!
+!
+ip cef
+no ipv6 cef
+!
+multilink bundle-name authenticated
+license udi pid CISCO892-K9 sn FGL172626XE
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+interface BRI0
+ no ip address
+ encapsulation hdlc
+ shutdown
+ isdn termination multidrop
+!
+interface FastEthernet0
+!
+interface FastEthernet1
+!
+interface FastEthernet2
+!
+interface FastEthernet3
+!
+interface FastEthernet4
+!
+interface FastEthernet5
+!
+interface FastEthernet6
+!
+interface FastEthernet7
+!
+interface FastEthernet8
+ no ip address
+ shutdown
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet0
+ no ip address
+ shutdown
+ duplex auto
+ speed auto
+!
+interface Vlan1
+ no ip address
+!
+ip forward-protocol nd
+!
+!
+no ip http server
+no ip http secure-server
+!
+logging esm config
+!
+!
+!
+!
+!
+!
+control-plane
+!
+!
+line con 0
+line aux 0
+line vty 0 4
+ login
+ transport input all
+!
+end
+```
